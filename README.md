@@ -107,6 +107,36 @@ df2
 ![273361597-7d9da7e9-83e6-4331-a573-30e11e6e3f7b](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/2cc04408-5de4-4440-a435-050f5aac70a5)
 
 ## For Data.csv file:
+## Initial data:
+![273361639-97e763d2-5d13-4557-ac74-013d5dbafc31](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/2083700f-cd00-448e-8582-50b791b492d5)
+
+## Unique data:
+![273361675-b6eeb54b-fa73-453c-8633-e6d2683e188e](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/c3a48ec4-6116-4371-8e7b-985d8543b45c)
+
+## Ordinal encoder:
+![273361705-0347af5e-9372-4e3d-8d6c-37624bf491ad](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/c009a540-26ba-4f99-a745-40e9457bd92a)
+![273361778-b40cb7fe-2307-49fe-b5b4-c8fc0cc6a92e](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/7e55c1b4-00db-4160-ac47-4b16f12f2fa9)
+
+## Label encoder:
+![273361807-1fa70e48-0138-4374-a692-f1bbb8f31296](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/41b5f0cc-8d2a-4bfb-866f-ab4c74d6f077)
+
+## Binary encoder:
+![273361833-b1289098-ce15-417b-9fda-aa597b70ea47](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/48384b43-a12c-4ef4-a22b-f1e693db3c3c)
+![273361842-4d218dd6-737b-461b-af77-e7f84210dd55](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/06c85884-d4a5-40fa-9b87-9f32a2600c8f)
+
+## For BMI.csv file:
+## Initial data:
+![273361857-27089f7d-ef4b-47f9-b281-55f1851c535d](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/f01f3917-7111-4d65-90d4-cc9836943c33)
+
+## Binary encoders:
+![273361897-f5908604-451a-4c35-89fb-03d480ee3126](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/138a1f1e-ddcb-4cd5-9d9b-147a2363a12b)
+
+## Dummies:
+![273361998-aaf349a3-ae1d-4273-9652-ef413ff37f3d](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/36fce9c1-0b99-4f99-aab8-0eb8cb935181)
+
+# RESULT:
+The Feature Generation process was performed and saved the data to a file.
+
 
 
 
